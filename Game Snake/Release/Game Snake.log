@@ -1,0 +1,20 @@
+﻿  File.cpp
+  GameGame.cpp
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\GameGame.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\GameGame.cpp(9,23): warning C4101: 'TenTB': unreferenced local variable
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\GameGame.cpp(9,7): warning C4101: 'TenDE': unreferenced local variable
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\GameGame.cpp(9,56): warning C4101: 'TenCZ': unreferenced local variable
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\GameGame.cpp(9,39): warning C4101: 'TenKHO': unreferenced local variable
+  kmin_console.cpp
+  MyFuntion.cpp
+  Menu.cpp
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\Menu.cpp(116,21): warning C4018: '<': signed/unsigned mismatch
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\Menu.cpp(122,21): warning C4018: '<': signed/unsigned mismatch
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\Menu.cpp(163,20): warning C4018: '<=': signed/unsigned mismatch
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\Menu.cpp(178,20): warning C4018: '<=': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Subject\SnakeGameV1\Source\Game Snake\Game Snake\MyFuntion.cpp(244): warning C4715: 'RanTuAn': not all control paths return a value
+  All 198 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game Snake.vcxproj -> D:\Subject\SnakeGameV1\Source\Game Snake\Release\Game Snake.exe
